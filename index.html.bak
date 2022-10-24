@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>ITC-GFM | Homepage</title>
+    <title>Capital Bikeshare | Homepage</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -44,25 +44,18 @@
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <div class="navbar-nav ms-auto py-0 pe-4">
                         <a href="index.html" class="nav-item nav-link active">Home</a>
-                        <a href="data-viewer.html" class="nav-item nav-link">Data Viewer</a>
-                        <div class="nav-item dropdown">
-                            <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Science</a>
-                            <div class="dropdown-menu m-0">
-                                <a href="phoprocess.html" class="dropdown-item">Photogrammetric Process</a>
-                                <a href="webprocess.html" class="dropdown-item">Web-Mapping Process</a>
-                            </div>
-                        </div>
+                        <a href="data-viewer.html" class="nav-item nav-link">Data Visualization</a>
+                        <a href="phoprocess.html" class="nav-item nav-link">Presentation</a>
                         <a href="team.html" class="nav-item nav-link">About Us</a>
-						<a href="team.html" class="nav-item nav-link">Peer-Review</a>
                     </div>
             </nav>
             <div class="container-xxl py-5 bg-dark hero-header mb-5">
                 <div class="container my-5 py-5">
                     <div class="row align-items-center g-5">
                         <div class="col-lg-6 text-center text-lg-start">
-                            <h1 class="display-3 text-white animated slideInLeft">Web-Mapping a <br>Photogrammetric Product</h1>
-                            <p class="text-white animated slideInLeft mb-4 pb-2">The aim of this project is to demonstrate and reflect our understanding of Geo-WebServices and Photogrammetry.</p>
-                            <a href="data-viewer.html" class="btn btn-primary py-sm-3 px-sm-5 me-3 animated slideInLeft">Data Viewer</a>
+                            <h1 class="display-3 text-white animated slideInLeft">Capital Bikeshare<br>Data Visualization</h1>
+                            <p class="text-white animated slideInLeft mb-4 pb-2">The aim of this project is to demonstrate and reflect the data of bike sharing program.</p>
+                            <a href="data-viewer.html" class="btn btn-primary py-sm-3 px-sm-5 me-3 animated slideInLeft">Show Visualization</a>
                         </div>
                         <div class="col-lg-6 text-center text-lg-end overflow-hidden">
                             <img class="img-fluid" src="img/world.png" alt="">
@@ -75,14 +68,14 @@
         <!-- Navbar & Hero End -->
 
 
-    <!-- footer section -->
-    <section class="container-fluid footer_section">
-    <p>
-      Copyright &copy; 2022 All Rights Reserved by
-      <a href="team.html">ITC-GFM 2021 Students</a>
-    </p>
-    </section>
-    <!-- footer section -->
+         <!-- footer section -->
+         <section class="container-fluid footer_section">
+            <p>
+              Copyright &copy; 2022 All Rights Reserved by
+              <a href="team.html">ITC 2022 Students</a>
+            </p>
+          </section>
+          <!-- footer section -->
 
 
     <!-- JavaScript Libraries -->
